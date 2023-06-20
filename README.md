@@ -7,5 +7,5 @@
 ---
 ## チームB
 <ul>
-  <li><a href="mongdb_client.py">MongoEngine を用いた MongoDBへのアクセス</a></li>
+  <li><a href="mongodb_client.py">MongoEngine を用いた MongoDBへのアクセス</a></li>
 </ul>
